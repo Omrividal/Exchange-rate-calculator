@@ -4,4 +4,5 @@
 
 Basic exchange rate calculator which updates daily using the https://www.exchangerate-api.com/ API
 
-Check it live:
+Check the live demo using netlify hosting:
+https://unique-souffle-f86d1b.netlify.app/
